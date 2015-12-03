@@ -29,17 +29,5 @@
     <ClCompile Include="numberToLinkedListSpec.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="removeEveryKthNodeSpec.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="sortLinkedListSpec.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="twodigitLinkedListSpec.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="012sllSortSpec.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
